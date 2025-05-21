@@ -1,6 +1,6 @@
 {
   "name": "rating-app",
-  "homepage": "https://Mridul2021.github.io/rating/",
+  "homepage": "https://Mridul2021.github.io/rating-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
